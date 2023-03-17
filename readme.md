@@ -1,4 +1,4 @@
-Les etapes de craetion avec les pulguins utilisés
+## Les etapes de craetion avec les pulguins utilisés
 
 
 Pour installer WordPress, je suivre les étapes ci-dessous :
