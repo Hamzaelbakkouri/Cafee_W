@@ -1,7 +1,7 @@
-## Les etapes de craetion avec les pulguins utilisés
+## Les etapes de craetion avec les pulguins utilisés :
 
 
-Pour installer WordPress, je suivre les étapes ci-dessous :
+## Pour installer WordPress, je suivre les étapes ci-dessous :
 
 Téléchargez la dernière version de WordPress à partir du site officiel.
 
@@ -25,7 +25,7 @@ Suivez les instructions à l'écran pour terminer l'installation de WordPress.
 
 
 
-les pulguins utilisés dans ce projet
+## les pulguins utilisés dans ce projet :
 woocommerce: vous donne des sites e-commerce avec les operations (achat, add ....)
 
 Stripe: pour le paiement en ligne
@@ -33,3 +33,5 @@ Stripe: pour le paiement en ligne
 Yoast seo: pour augmenter le seo d'application
 
 TranslatePress : pour la traduction du site
+
+adapta RGPD : pour la partie securité (cookies)
